@@ -15,7 +15,7 @@ The model classifies lung CT scan images into:
 
 - Normal
 - Benign
-- Malignant
+- Malignant 
 
 using a Convolutional Neural Network (CNN) integrated with an Attention Mechanism.
 
